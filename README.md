@@ -11,7 +11,7 @@
 ###
 
 - ✨ Creating bugs since 2023
-- 📚 Currently learning:
+- 📚 Currently learning: Mern
 - 🎯 Goals: Master Full-Stack Development & Dive Deeper into Software Engineering
 - 🎲 Fun fact: I turn coffee into code ☕💻
 - 🔭 I’m currently working on ...
