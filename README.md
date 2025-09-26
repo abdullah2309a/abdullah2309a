@@ -10,7 +10,6 @@
 
 ###
 
-
 - ✨ Creating bugs since 2023
 - 📚 Currently learning: Flutter & Backend Development
 - 🎯 Goals: Master Full-Stack Development & Dive Deeper into Software Engineering
